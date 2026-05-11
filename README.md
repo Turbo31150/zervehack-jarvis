@@ -1,5 +1,7 @@
 # JARVIS-ZERO: Build Anything with Local AI Agents
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > ZerveHack 2026 — $10,000 AI Hackathon | "Stop thinking, build it"
 
 Turn any idea into a running multi-agent system in seconds. No cloud. No API keys. No limits.
